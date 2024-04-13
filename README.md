@@ -10,7 +10,7 @@ Este é um programa simples em C que imprime "Hello World!" na tela.
 
 Este programa utiliza a função `fork()` para criar múltiplos processos filhos que executam o programa "HelloWorld". O número de processos filhos é determinado pelo argumento passado na linha de comando.
 
-## makefile
+## Makefile
 
 O makefile está configurado para compilar os programas "Fork" e "HelloWorld".
 
