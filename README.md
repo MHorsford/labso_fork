@@ -1,6 +1,6 @@
 # Programas em C utilizando fork() - Referente a Questão 1
 
-Este repositório contém dois programas em C que demonstram o uso da função `fork()` para criar n processos. Um dos programas simplesmente imprime "Hello World!", enquanto o outro cria vários processos filhos que executam o programa "helloWorld".
+Este repositório contém dois programas em C que demonstram o uso da função `fork()` para criar n processos. Um dos programas simplesmente imprime "Hello World!", enquanto o outro cria vários processos filhos que executam o programa "HelloWorld".
 
 ## helloWorld.c
 
@@ -8,7 +8,7 @@ Este é um programa simples em C que imprime "Hello World!" na tela.
 
 ## fork.c
 
-Este programa utiliza a função `fork()` para criar múltiplos processos filhos que executam o programa "helloWorld". O número de processos filhos é determinado pelo argumento passado na linha de comando.
+Este programa utiliza a função `fork()` para criar múltiplos processos filhos que executam o programa "HelloWorld". O número de processos filhos é determinado pelo argumento passado na linha de comando.
 
 ## makefile
 
