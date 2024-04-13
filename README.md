@@ -2,7 +2,7 @@
 
 Este repositório contém dois programas em C que demonstram o uso da função `fork()` para criar n processos. Um dos programas simplesmente imprime "Hello World!", enquanto o outro cria vários processos filhos que executam o programa "HelloWorld".
 
-## helloWorld.c
+## hello_world.c
 
 Este é um programa simples em C que imprime "Hello World!" na tela.
 
